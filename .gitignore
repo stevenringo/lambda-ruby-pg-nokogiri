@@ -1,0 +1,4 @@
+deploy.zip
+vendor/
+.bundle/
+lib/
